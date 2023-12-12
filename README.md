@@ -1,4 +1,4 @@
-# Diamond Price Prediction Using Feedforward Neural Network
+# Recognizing Cracks on Concrete with Image Classification using CNN
 ## 1. Summary
 The purpose of this project is to create a convolutional neural network that can accurately identify whether there are cracks in concerete. The model is trained with a dataset of 40000 images (20000 images of concrete in good condition and 20000 images of concrete with cracks), from [Productivity Prediction of Garment Employees](https://www.kaggle.com/datasets/ishadss/productivity-prediction-of-garment-employees).
 
