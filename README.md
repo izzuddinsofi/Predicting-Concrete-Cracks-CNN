@@ -32,7 +32,7 @@ The graphs clearly show evidence of convergence, showing that the model has been
 ## 4. Results
 The model is evaluated with the test data. The loss and accuracy are shown in figure below.
 
-![Test Result](img/test_result.png)
+![Test Result](img/result.png)
 
 Below are four images with accurate prediction made
 
