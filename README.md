@@ -24,7 +24,7 @@ The model is shown in figure in a simplified form in the image below.
 
 The model is trained with a batch size of 16 and for 10 epochs. After training, the model reaches 99% training accuracy and 99% validation accuracy. The training results are shown in the figures below.
 
-![Loss Graph](img/loss.PNG) ![MAE Graph](img/mae.PNG)
+![Loss Graph](img/loss.png) ![Accuracy](img/accuracy.png)
 
 The graphs clearly show evidence of convergence, showing that the model has been trained to achieve an optimal level of accuracy and loss.
 
