@@ -1,5 +1,5 @@
 """
-Predicting Concretet with Cracks in Images
+Recognizing images of concrete with cracks
 """
 
 #1. Import the necessary packages and dataset
